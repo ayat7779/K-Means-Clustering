@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Datasets & Cache Output Folders (GitHub 100MB File Limit Protection)
+*.xlsx
+*.xls
+*.parquet
+.cache_dataset/
+Hasil_Penelitian_PKB/
+*.csv
+*.pkl
+
+# Environments & IDEs
+.idea/
+.vscode/
+.venv/
+env/
+venv/
+ENV/
+*.log
